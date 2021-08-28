@@ -1,0 +1,20 @@
+①:stancy_data1
+Topic---Argument
+Topic---Key point
+
+②:stancy_data2
+Topic---Argument
+Topic---Key point
+Argument---Key point
+
+③stancy_data3
+Argument---Key point
+
+④:stancy_data4
+①+Stancy
+
+⑤:stancy_data5
+②＋Stancy
+
+⑥:stancy_data6
+③+Stancy
